@@ -6,3 +6,5 @@ Be aware of the libraries necessary to run this code.  The most import ones:
 Adafruit MPR121 code.  Works with generic MPR121 boards
 Ticker library for timing control.
 Wire library
+
+Footage of the project in action https://www.instagram.com/p/CoeOhQpLqRh/
